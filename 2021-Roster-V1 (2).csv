@@ -802,7 +802,7 @@ Boise State,Andy Peters,QB,1,6
 Boise State,Taylen Green,QB,1,6
 Boise State,Andrew VanBuren,RB,4,6
 Boise State,Cyrus Habibi-Likio,RB,4,6
-Boise State,Danny Smith,RB,3,6
+Boise State,Ashton Jeanty,RB,2,9
 Boise State,Taequan Tyler,RB,2,6
 Boise State,Tyler Crowe,RB,2,6
 Boise State,George Holani,RB,2,6
@@ -3276,7 +3276,7 @@ LSU,Antoine Sampah,LB,1,7
 LSU,Liam Shanahan,OL,4,8
 LSU,Ed Ingram,OL,4,8
 LSU,Chasen Hines,OL,4,8
-LSU,Austin Deculus,OL,4,8
+LSU,Will Campbell,OL,3,9
 LSU,Cameron Wire,OL,3,7
 LSU,Marlon Martinez,OL,2,7
 LSU,Anthony Bradford,OL,2,7
@@ -3557,7 +3557,7 @@ Miami,Ryan Rodriguez,OL,1,7
 Miami,Issiah Walker,OL,1,7
 Miami,Jalen Rivers,OL,1,7
 Miami,Laurance Seymore,OL,1,7
-Miami,DEriq King,QB,4,8
+Miami,Cam Ward,QB,4,9
 Miami,Tyler VanDyke,QB,1,7
 Miami,Jake Garcia,QB,1,7
 Miami,Peyton Matocha,QB,1,6
@@ -3666,7 +3666,7 @@ Michigan,Jordan Whittley,DL,4,7
 Michigan,Jess Speight,DL,4,7
 Michigan,Donovan Jeter,DL,4,7
 Michigan,Christopher Hinton,DL,3,8
-Michigan,Julius Welschof,DL,3,7
+Michigan,Mason Graham,DL,3,9
 Michigan,Mazi Smith,DL,2,8
 Michigan,Mike Morris,DL,2,7
 Michigan,Rayshaun Benny,DL,1,7
@@ -3683,7 +3683,7 @@ Michigan,David Ojabo,LB,2,8
 Michigan,Taylor Upshaw,LB,2,7
 Michigan,Kalel Mullings,LB,2,7
 Michigan,Nikhai Hill-Green,LB,1,8
-Michigan,Junior Colson,LB,1,7
+Michigan,Junior Colson,LB,2,8
 Michigan,Jaylen Harrell,LB,1,7
 Michigan,Braiden McGregor,LB,1,7
 Michigan,Andrew Stueber,OL,4,8
@@ -5182,7 +5182,7 @@ Oregon,Khyree Jackson,CB,3,9
 Oregon,Trikweze Bridges,CB,1,7
 Oregon,Jaylin Davies,CB,1,7
 Oregon,Dontae Manning,CB,3,8
-Oregon,Derrick Harmon,DL,3,8
+Oregon,Derrick Harmon,DL,3,9
 Oregon,Brandon Dorlus,DL,3,9
 Oregon,Jamaree Caldwell,DL,4,8
 Oregon,Jayson Jones,DL,1,7
@@ -5208,7 +5208,7 @@ Oregon,Jake Shipley,LB,1,7
 Oregon,George Moore,OL,4,8
 Oregon,Alex Forsyth,OL,3,8
 Oregon,TJ Bass,OL,3,8
-Oregon,Ryan Walk,OL,3,8
+Oregon,Josh Conerly,OL,2,9
 Oregon,Malaesala Aumavae-Laulu,OL,3,8
 Oregon,Steven Jones,OL,2,8
 Oregon,Dawson Jaramillo,OL,2,7
@@ -5322,9 +5322,9 @@ Penn State,Derrick Tangelo,DL,4,8
 Penn State,Arnold Ebiketie,DL,4,8
 Penn State,Fred Hansard,DL,4,7
 Penn State,PJ Mustipher,DL,4,7
-Penn State,Hakeem Beamon,DL,3,7
+Penn State,Abdul Carter,DL,3,9
 Penn State,Nick Tarburton,DL,3,7
-Penn State,Adisa Isaac,DL,3,7
+Penn State,Adisa Isaac,DL,3,8
 Penn State,DVon Ellies,DL,2,7
 Penn State,Cole Brevard,DL,2,7
 Penn State,Zuriah Fisher,DL,2,7
@@ -8210,3 +8210,4 @@ Wyoming,Alex Brown,WR,2,6
 Wyoming,Joshua Cobbs,WR,2,6
 Wyoming,Isaiah Neyor,WR,2,6
 Wyoming,Tyrese Grant,WR,2,6
+
